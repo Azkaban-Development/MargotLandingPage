@@ -51,7 +51,7 @@ We may terminate or suspend your access to the app immediately, without prior no
 
 ## 10. Privacy Policy
 
-We care about data privacy and security. Please review our Privacy Policy: TODO. By using the Services, you agree to be bound by our Privacy Policy, which is incorporated into these Terms. 
+We care about data privacy and security. Please review our [Privacy Policy](http://trymargot.com/privacypolicy). By using the Services, you agree to be bound by our Privacy Policy, which is incorporated into these Terms. 
 
 ## 11. Governing Law
 
@@ -59,4 +59,4 @@ These Terms are governed by the laws of British Columbia, without regard to its 
 
 ## 12. Contact Information
 
-For any questions about these Terms, please contact us at TODO.
+For any questions about these Terms, please contact us at team.margotapp@gmail.com.

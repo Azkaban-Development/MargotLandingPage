@@ -35,4 +35,4 @@ We store all data collected for as long as it is necessary to provide you access
 
 ## 6. Contact Information
 
-For any questions or concerns regarding your privacy, please contact us at TODO.
+For any questions or concerns regarding your privacy, please contact us at team.margotapp@gmail.com.

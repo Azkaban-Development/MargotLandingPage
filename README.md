@@ -92,6 +92,9 @@ If you need to, you can create additional markdown based pages just by creating 
 You can also choose not to include these pages, by simple deleting the `privacypolicy.md` and `CHANGELOG.md` files.
 
 
+### Running locally:
+
+After installing bundle and jekyll, you can run the landing page locally with `bundle exec jekyll server`. Accessible at http://localhost:4000. FYI, `_config.yml` changes require re-running the command.
 
 
 ## Feedback
