@@ -1,5 +1,5 @@
 #page title
-page_title                                : Margot - AI Colorist                      # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Margot - AI Color Stylist                 # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 6505045671                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -9,9 +9,9 @@ appstore_link                             :                                     
 playstore_link                            :                                           # Enter Google Play Store URL.
 
 app_icon                                  : assets/margot-logo-icon.png               # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Margot - AI Colorist                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Margot - AI Color Stylist                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : See Your Best Colors with AI.
+app_description                           : Find Your Best Colors with AI.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
