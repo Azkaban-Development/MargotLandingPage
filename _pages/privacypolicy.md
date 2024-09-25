@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 5, 2024
+September 24, 2024
 
 # Privacy Policy
 
@@ -23,7 +23,7 @@ This privacy policy explains how David Ng ("we", "the team") manages user data i
 
 ## 3. Data Sharing
 
-We do not sell or rent your personal data to third parties.
+Our app uses external services to provide advanced features such as image analysis. Specifically, we may transmit user-uploaded images to a third-party AI service for processing. These images are handled securely and are only used for the intended purpose of providing analysis or improving functionality within the app. We do not sell or share this data with any other third parties. The third party’s handling of this data is governed by their respective privacy policy.
 
 ## 4. Data Security
 
