@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-September 24, 2024
+September 25, 2024
 
 # Privacy Policy
 
@@ -17,22 +17,27 @@ This privacy policy explains how David Ng ("we", "the team") manages user data i
 
 ## 2. Data Collection
 
-1. **Usage**: We collect and store information about how you interact with Margot. This includes, but is not limited to, time spent on Margot and specific features used.
-2. **Images**: We collect and store images uploaded by you. These images are used for, but are not limited to, analysis, providing recommendations, in-app profile display, and historical purposes.
-3. **Personal Information**: We collect and store basic personal information provided when you sign in. This includes a user identifier, email, and full name. Other personal information, such as age, gender, and location, is stored for analytics purposes and recommendations.
+1. **Images**: We collect and store images uploaded by you. Images such as front and side facial photos are required in order to access your color analysis report. 
+2. **Personal Information**: We collect and store basic personal information provided when you sign in. This includes a user identifier, email, and full name.
 
-## 3. Data Sharing
+## 3. Data Usage
 
-Our app uses external services to provide advanced features such as image analysis. Specifically, we may transmit user-uploaded images to a third-party AI service for processing. These images are handled securely and are only used for the intended purpose of providing analysis or improving functionality within the app. We do not sell or share this data with any other third parties. The third party’s handling of this data is governed by their respective privacy policy.
+1. **Images**: Provided images are fed into a machine learning model that outputs your color analysis profile. The front facial photo is stored to be used as a profile photo in the color analysis report.
 
-## 4. Data Security
+2. **Personal Information**: We use basic personal information to link data to your account. This information may also be used to assist you in resolving an account-related issues.
+
+## 4. Data Sharing
+
+Our app uses OpenAI as a third-party service to provide assist in generating your color analysis report. Specifically, we transmit your uploaded images to the third-party service for image processing. These images are handled securely and are only used for the intended purpose of providing analysis or improving functionality within the app. The third party service does not store or share your uploaded images with any other entity apart from us. We do not sell or rent your data with any third parties.
+
+## 5. Data Security
 
 We utilize strong security protocols to safeguard your data from unauthorized access, changes, exposure, or loss. Despite these efforts, it is important to understand that no security system can offer a 100% guarantee of protection.
 
-## 5. Data Retention
+## 6. Data Retention
 
-We store all data collected for as long as it is necessary to provide you access to the features of Margot. When we have no ongoing legitimate business need to process your personal information, we will delete your data. You may request the deletion of your personal information. Upon receiving the request, we will act upon it as soon as feasibly possible, but no later than thirty (30) days from the date of the request.
+We store all collected data on the cloud for as long as you have an active account to provide you access to the features of Margot. When we have no ongoing legitimate business need to process your personal information, we will delete your data. You may also request the deletion of your personal information through the application, where data is deleted immediately.
 
-## 6. Contact Information
+## 7. Contact Information
 
 For any questions or concerns regarding your privacy, please contact us at team.margotapp@gmail.com.
