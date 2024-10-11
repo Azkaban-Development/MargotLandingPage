@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-September 25, 2024
+October 10, 2024
 
 # Privacy Policy
 
@@ -17,18 +17,21 @@ This privacy policy explains how David Ng ("we", "the team") manages user data i
 
 ## 2. Data Collection
 
-1. **Images**: We collect and store images uploaded by you. Images such as front and side facial photos are required in order to access your color analysis report. 
+1. **Images**: We collect and store images uploaded by you. Front and side facial photos are required to access your color analysis report. Outfit photos are required to provide style advice.
 2. **Personal Information**: We collect and store basic personal information provided when you sign in. This includes a user identifier, email, and full name.
+3. **Analytics**: We collect and store user usage analytics. We log button clicks, successful referral submissions and successful sign-in attempts.
 
 ## 3. Data Usage
 
-1. **Images**: Provided images are fed into a machine learning model that outputs your color analysis profile. The front facial photo is stored to be used as a profile photo in the color analysis report.
+1. **Images**: Provided images are fed into a machine learning model that outputs your color analysis profile and/or your style advice. The front facial photo is stored to be used as a profile photo in the color analysis report. Outfit photos are stored for historical purposes, where the user can view the photo and advice for previous submissions.
 
 2. **Personal Information**: We use basic personal information to link data to your account. This information may also be used to assist you in resolving an account-related issues.
 
+3. **Analytics**: We use user usage analytics to better tailor the app for our users to ensure a pleasant experience.
+
 ## 4. Data Sharing
 
-Our app uses OpenAI as a third-party service to provide assist in generating your color analysis report. Specifically, we transmit your uploaded images to the third-party service for image processing. These images are handled securely and are only used for the intended purpose of providing analysis or improving functionality within the app. The third party service does not store or share your uploaded images with any other entity apart from us. We do not sell or rent your data with any third parties.
+Our app uses OpenAI as a third-party service to assist in generating your color analysis report and providing style recommendations. Specifically, we transmit your uploaded images to the third-party service for image processing. These images are handled securely and are only used for the intended purpose of providing analysis or functionality within the app. The third party service does not store or share your uploaded images with any other entity apart from us. We do not sell or rent your data with any third parties.
 
 ## 5. Data Security
 
