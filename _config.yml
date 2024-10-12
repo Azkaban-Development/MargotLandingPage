@@ -23,8 +23,9 @@ your_link                                 :
 your_city                                 : Canada                              
 email_address                             : team.margotapp@gmail.com
 facebook_username                         :                                           
-instagram_username                        : 
-twitter_username                          : 
+instagram_username                        : trymargot
+twitter_username                          : trymargotapp
+tiktok_username                           : trymargot
 github_username                           : 
 youtube_username                          :
 mastodon_link                             : 
@@ -33,14 +34,18 @@ mastodon_link                             :
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
-
-  - title                                 : Personal Color Analysis
-    description                           : Color analysis identifies the shades that complement your complexion, hair, and eyes.
-    fontawesome_icon_name                 : palette
     
   - title                                 : Artificial Intelligence
     description                           : Margot uses artificial intelligence to provide a precise color analysis, ensuring you always look your best.
     fontawesome_icon_name                 : robot
+
+  - title                                 : Personal Color Analysis
+    description                           : Color analysis identifies the shades that complement your complexion, hair, and eyes.
+    fontawesome_icon_name                 : palette
+
+  - title                                 : Style Advice
+    description                           : Upload outfits to get a style rating and personalized feedback based on your unique color profile.
+    fontawesome_icon_name                 : star
 
   - title                                 : More Features To Come
     description                           : New features will be added periodically, stay tuned!
